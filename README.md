@@ -1,6 +1,3 @@
-# COVID-19-Global-Data-Tracker-Project
-COVID-19 tracker web app that updates realtime coronavirus cases data.
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Check out the live coronavirus app at www.cvirustracker.tech.
